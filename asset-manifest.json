@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flipcart-react/static/css/main.69466ee0.css",
+    "main.js": "/Flipcart-react/static/js/main.e609b0ac.js",
+    "static/js/453.67dda0b0.chunk.js": "/Flipcart-react/static/js/453.67dda0b0.chunk.js",
+    "index.html": "/Flipcart-react/index.html",
+    "main.69466ee0.css.map": "/Flipcart-react/static/css/main.69466ee0.css.map",
+    "main.e609b0ac.js.map": "/Flipcart-react/static/js/main.e609b0ac.js.map",
+    "453.67dda0b0.chunk.js.map": "/Flipcart-react/static/js/453.67dda0b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69466ee0.css",
+    "static/js/main.e609b0ac.js"
+  ]
+}
